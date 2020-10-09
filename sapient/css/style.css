@@ -1,0 +1,128 @@
+body{
+    width: 100%;
+    background-color: #dedede;
+}
+.row{
+    margin: 0px;
+}
+.container{
+    margin: 0px;
+    width: 100%;
+    float: left;
+    background-color: #dedede;
+}
+.spacex_img img{
+   width: 160px;
+}
+button:nth-child(even) {
+  margin-left: 40px;
+}
+#myBtnContainer{
+     width: 100% !important;
+    float: left;
+    border-radius: 4px;
+}
+#myBtnContainer h5{
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 05px;
+}
+#myBtnContainer h6{
+    text-align: center;
+    margin-bottom: 05px;
+}
+hr{
+        margin-top: 0px !important;
+    width: 120px;
+    margin-bottom: 12px;
+}
+.filetrs_btn{
+    text-align: center;
+}
+.total_details h2{
+    font-size: 11px;
+    text-align: left;
+    color: #0033cc;
+    font-weight: 600;
+}
+.inside_details{
+    line-height: 20px;
+}
+.inside_details label{
+    font-size: 11px;
+    text-align: left;
+    margin-bottom: 0px;
+    width: 100%;
+}
+.inside_details span {
+    color: #668cff;
+    font-size: 11px;
+}
+.inside_details1 label{
+    font-size: 11px;
+    text-align: left;
+    margin-bottom: 0px;
+    width: 64%;
+}
+.inside_details1 span {
+    color: #668cff;
+    font-size: 11px;
+}
+.inside_details1{
+    text-align: left;
+}
+#myBtnContainer{
+       
+        background-color: #fff;
+    }
+.filterDiv {
+  background-color: #fff;
+  text-align: center;
+  margin: 2px;
+  display: none;
+        border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.show {
+  display: block;
+}
+.container {
+  margin-top: 20px;
+  overflow: hidden;
+}
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 4px 12px;
+  background-color:#8dce8d;
+  cursor: pointer;
+    margin-bottom: 10px;
+    font-size: 12px !important;
+}
+
+.btn:hover {
+  background-color: #79d279;
+}
+
+.btn.active {
+  background-color:#8bd43a;
+    font-weight: 600;
+}
+.my_container{
+    width: 100%;
+    float: left;
+}
+.main_header h3{
+    margin: auto 11% 30px 11%;
+    
+}
+.devloped_by{
+    text-align: center;
+    width: 100%;
+        float:left;
+}
+.devloped_by label{
+    
+}
